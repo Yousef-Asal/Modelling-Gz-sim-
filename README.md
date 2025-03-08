@@ -164,6 +164,8 @@ XML does not have predefined tags like HTML instead, users define their own tags
 
 Since we kinda umderstood what is SDF let's start building our robot.
 
+> Note: you can discover all the different tags in SDF from this [link](http://sdformat.org/spec?ver=1.12&elem=sdf)
+
 ---
 
 ### Building robot
